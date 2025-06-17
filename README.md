@@ -12,4 +12,5 @@
 3. Am importat logurile in Splunk (Data inputs - Files & Directories)
 4. Am creat un query pentru a cauta IP urile care au avut peste 10 incercari esuate
 5. Am creat o alerta in Splunk
-
+# Screenshots:
+Capturile de ecran ale proiectului:
