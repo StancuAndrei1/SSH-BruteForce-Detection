@@ -14,3 +14,8 @@
 5. Am creat o alerta in Splunk
 # Screenshots:
 Capturile de ecran ale proiectului:
+![Comanda atac hydra](screenshots/Kali_Comanda_Hydra.png)
+![Events din sourcetype="linux_auth](screenshots/Splunk_Sourcetype_logs.png)
+![Query](screenshots/Splunk_Query_passwords.png)
+![Salvare alerta](screenshots/Splunk_Save_alert.png)
+![Alerta salvata in tabel](screenshots/Splunk_Tabel_alerta_SSH.png)
